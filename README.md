@@ -1,6 +1,6 @@
 # 🔢 Cyber Calculator - Futuristic Digital Calculator
 
-![Calculator Preview](calculator-screenshot.png) 
+![Calculator Preview](cyber-calculator-digital.png) 
 
 ## 🚀 Live Demo
 [[View Live Calculator](#) (https://cyber-calculator-digital.netlify.app/)<!-- Add your live demo link here -->

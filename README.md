@@ -40,7 +40,7 @@ cyber-calculator/
 ## 🔧 Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cyber-calculator.git
+git clone https://github.com/harshith1476/cyber-calculator.git
 Open index.html in any modern browser
 
 🌟 Usage
